@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="meta_count">20dp</dimen>
+    <dimen name="meta_label">12dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+</resources>
